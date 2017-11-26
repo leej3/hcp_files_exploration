@@ -1,4 +1,4 @@
-name: hcp_characterization
+name: 100runs_lab
 channels:
 - conda-forge
 - defaults
